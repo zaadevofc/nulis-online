@@ -1,0 +1,17 @@
+{
+  "name": "zaadev-nulis",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "author": "ZaaDev",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "cookie-parser": "^1.4.6",
+    "debug": "^4.3.3",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0"
+  }
+}

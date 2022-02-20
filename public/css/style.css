@@ -1,0 +1,65 @@
+div div label {
+  color: #bdbdbd;
+}
+
+select.form-control {
+  background-color: #37474f;
+  color: #fafafa;
+}
+
+input.form-control {
+  background-color: #37474f;
+}
+
+span.input-group-text {
+  background-color: #37474f;
+}
+
+textarea.form-control {
+  background-color: #37474f;
+}
+
+i.fas.fa-calendar-alt {
+  color: #fafafa;
+}
+
+select.form-control {
+  border: none;
+}
+
+input.form-control {
+  border: none;
+}
+
+span.input-group-text {
+  border: none;
+}
+
+textarea.form-control {
+  border: none;
+}
+
+@media (min-width: 640px) {
+
+canvas.p5Canvas {
+  width: 79% !important;
+  height: 97% !important;
+  margin-left: 80px;
+  --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --tw-shadow-color: rgb(125 211 252 / 1);
+  --tw-shadow: var(--tw-shadow-colored);
+  --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
+div.form-group.col-md-6 {
+  margin-bottom: -px;
+}
+
+div.form-row.p-3 {
+  height: 90px;
+}
+
+textarea.form-control {
+  height: 170px !important;
+}
