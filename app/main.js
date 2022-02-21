@@ -22,26 +22,6 @@ router.get('/', function (req, res) {
   })
 })
 
-router.get('/settings/clear-cookie', function (req, res) {
-  res.clearCookie('user')
-  res.clearCookie('user_name')
-  res.send('success')
-})
-
-router.get('/settings/get-cookie', function (req, res) {
-  res.send(req.cookies)
-})
-
-router.get('/settings/get-visits', async function (req, res) {
-  await axios.get('https://api.countapi.xyz/get/zaadev/nulis-online-visits')
-    .then((ress) => {
-      data = {
-        visits: ress.data.value
-      }
-      res.send(data)
-  })
-})
-
 router.get('*', function (req, res) {
   res.render('error')
 })
