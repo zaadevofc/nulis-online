@@ -30,7 +30,7 @@
   "bugs": {
         "url": "https://github.com/zaadevofc/nulis-online/issues"
     },
-   "homepage": "https://github.com/zaadevofc/nulis-online"
+   "homepage": "https://nulis-zaadev.vercel.app"
   "dependencies": {
     "axios": "^0.26.0",
     "cookie-parser": "^1.4.6",
