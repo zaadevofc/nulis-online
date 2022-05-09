@@ -24,4 +24,7 @@ app.use(function (err, req, res, next) {
   res.render('error')
 })
 
+let PORT = 8080
+app.listen(PORT, console.log(`\nServer running on  ${PORT}`));
+
 module.exports = app
