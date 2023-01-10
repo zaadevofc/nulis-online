@@ -60,8 +60,6 @@ Support saya terus, supaya saya bisa lebih semangat membuat project - project be
 - [Saweria](https://saweria.co/zaadevofc)
 - [Ko-fi](https://ko-fi.com/zaadevofc) 
 - [Buymeacoffe](https://www.buymeacoffee.com/zaadevofc)
-- [Gopay](+6282138006237)
-- [Pulsa](+6282138006237) 
 ## 💌 Feedback
 
 If you have any feedback, please reach out to us at zaadevofc@gmail.com
